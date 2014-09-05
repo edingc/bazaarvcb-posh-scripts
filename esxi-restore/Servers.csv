@@ -1,0 +1,3 @@
+vm,host,source,filename,destination
+SERVERONE,10.82.4.160,BackupDatastore,SERVERONE-20140120020021,Datastore
+SERVERTWO,10.82.4.160,BackupDatastore,SERVERTWO-20140119020018,Datastore
